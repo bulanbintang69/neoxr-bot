@@ -1,5 +1,5 @@
 <br>
-<p align="center"><img width="70%" src="https://telegra.ph/file/ca3dbfb0d8243f10a4b5f.jpg"></p>
+<p align="center"><img width="70%" src="https://telegra.ph/file/46b2e1b9b787ed3c42d02.jpg"></p>
 <div align="center">
 
 > if you use termux the sticker feature won't work.
